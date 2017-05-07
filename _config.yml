@@ -18,14 +18,14 @@ email: info@lucawyss.com
 description: > # this means to ignore newlines until "baseurl:"
   Audio guide de l'évenement *utopie, dystopie, mazzerati*
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "utopie.lucawyss.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://utopie.lucawyss.com" # the base hostname & protocol for your site, e.g. http://example.com
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username: lucawyss
 github_username:  lucawyss
-menu_heading: "Select another stop"
-index_page_text: "Select an audio guide stop to begin."
+menu_heading: "Selectionne une autre histoire"
+index_page_text: "Selectionne une histoire du quartier pour commencer."
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
 
