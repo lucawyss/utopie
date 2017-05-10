@@ -206,7 +206,7 @@
 .site-header-menu-button {
 /*   transform: rotate(180deg); */
   float: right;
-  img { 
+  img {
     width: 64px;
     height: 64px;
     padding: 16px 16px;
@@ -245,7 +245,7 @@
       height: 40px;
       padding: 12px 0;
     }
-    
+
   }
   .site-header {
     height: 64px;
@@ -362,7 +362,7 @@
     margin-top: $tile-size-large / 2;
     @include media-query($on-palm) {
         margin-top: $tile-size / 2;
-    }    
+    }
 }
 
 
@@ -388,7 +388,6 @@
 .post-title-episode {
     .post-header-stop-id {
         color: #ffffff;
-        display: inline-block;
         font-size: 26px;
         line-height: 26px;
         text-align: center;
@@ -397,7 +396,6 @@
         margin: 0 auto;
         //background-color: $tile-bgcolor;
         background-size: 100%;
-        color: $tile-color;
         width: $tile-size-large;
         height: $tile-size-large;
         span {
@@ -406,7 +404,7 @@
             display: inline-block;
             margin-top: $tile-size-large / 2;
         }
-        
+
     }
     .post-header-section-title {
         //color: lighten($brand-color, 20%);
@@ -606,7 +604,7 @@ Audio Player Styling
             margin: 0;
             padding: 0;
             text-align: right;
-            z-index: 10000;            
+            z-index: 10000;
         }
     }
 }
