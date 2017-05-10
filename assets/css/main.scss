@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-
+// color: #FCEA0F
 
 // Our variables
 $base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -20,7 +20,7 @@ $text-color:       	#fafafa;
 $background-hr:		#383838;
 $background-color: 	#222222;
 $background-darker: #1B1B1B;
-$brand-color:	   	#43A047;
+$brand-color:	   	#FCEA0F;
 $anchor-hover-color:	lighten($brand-color, 30%);
 
 $player-now-playing-size:   13px;
@@ -34,7 +34,7 @@ $player-play-color:		lighten($brand-color, 5%);
 $player-progress-height: 10px;
 
 $tile-bgcolor:	   $brand-color;
-$tile-color:	   #fafafa;
+$tile-color:	   #0a0a0a;
 $tile-size:		   56px;
 $tile-size-large:  64px;
 $tile-border-radius:	2px;

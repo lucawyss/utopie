@@ -21,11 +21,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://utopie.lucawyss.com" # the base hostname & protocol for your site, e.g. http://example.com
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
-logo: "/assets/img/logo/audio-guide.png"
+logo: "/assets/img/logo/utopie.png"
 twitter_username: lucawyss
 github_username:  lucawyss
-menu_heading: "Selectionne une autre histoire"
-index_page_text: "Selectionne une histoire du quartier pour commencer."
+menu_heading: "Selectionne une autre histoire :"
+index_page_text: "Des habitants du quartier des Fougères-Le Vau ont voyagé dans le futur pour receuillir des histoires et nous raconter comment ça va être. Selectionne une piste sonore pour écouter les histoires du quartier !"
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
 
